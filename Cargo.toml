@@ -1,0 +1,7 @@
+[package]
+name = "git-semver"
+version = "0.1.0"
+authors = ["gzfrancisco <gz.francisco@gmail.com>"]
+edition = "2019"
+
+[dependencies]
